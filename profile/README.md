@@ -37,7 +37,7 @@ Coordinator: Miguel Romero
 For a detailed technical overview, including architecture and system components,
 refer to our [public documentation](https://burrito-project.github.io/docs/overview.html).
 
-For questions, reach out to [@paoloose](https://github.com/paoloose/).
+For questions or ideas, feel free to reach out to [@paoloose](https://github.com/paoloose/).
 
 The entire codebase remains open-source under the MIT License for technical reference
 and future projects seeking to build upon this work.
