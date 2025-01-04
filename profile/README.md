@@ -6,19 +6,19 @@ Despite being an unofficial solution, it rapidly expanded in scope and impact,
 ultimately serving over 2,000 students daily with real-time bus location data
 and service updates.
 
-The project ceased operations at the end of November 2024, following the university's
+Operations ceased at the end of December 2024, following the university's
 decision to adopt professional (although inferior) geolocation services.
 
-The project was publicly associated with Contigo San Marcos, a local student political party.
-However, the true credit belongs to a core group of dedicated individuals who helped in
-its development and maintenance:
+The project was publicly associated with Contigo San Marcos, a local student
+political party. However, the true credit belongs to a core group of
+dedicated individuals who helped in its development and maintenance:
 
 ```
-Developer: Calle Luis
-Github: @luedu1103
-
 Developer: Flores Paolo
 Github: @paoloose
+
+Developer: Calle Luis
+Github: @luedu1103
 
 Developer: Sebastian Rojas
 Github: @SebastianRojas6
@@ -31,15 +31,16 @@ Coordinator: Miguel Romero
 For a detailed technical overview, including architecture and system components,
 refer to our [public documentation](https://burrito-project.github.io/docs/overview.html).
 
+For questions or ideas, feel free to reach out to [@paoloose](https://github.com/paoloose/).
+
 The entire codebase remains open-source under the MIT License for technical reference
 and future projects seeking to build upon this work.
-
-If you have questions or would like to collaborate on similar initiatives, feel free
-to reach out to [@paoloose](https://github.com/paoloose/).
 
 ## Gallery
 
 <img src="https://github.com/user-attachments/assets/a02426cb-83e3-4c2c-8779-a83013b9b242" height="650" />
+
+> Screenshots of the two clients communicating
 
 <img src="https://github.com/user-attachments/assets/aa0b1bf4-20f2-48be-84fb-47d90982a792" height="400" />
 
