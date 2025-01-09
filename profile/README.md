@@ -40,6 +40,8 @@ and future projects seeking to build upon this work.
 
 <img src="https://github.com/user-attachments/assets/a02426cb-83e3-4c2c-8779-a83013b9b242" height="650" />
 
+> Screenshots of the two clients communicating
+
 <img src="https://github.com/user-attachments/assets/aa0b1bf4-20f2-48be-84fb-47d90982a792" height="400" />
 
 > The development team celebrating the project's launch
