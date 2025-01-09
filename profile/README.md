@@ -1,9 +1,3 @@
-<details>
-
-<summary>🚍 Read the project's lore</summary>
-
-<br>
-
 The Burrito UNMSM Project was a student initiative that successfully achieved
 real-time school bus localization for the
 [National University of San Marcos](https://en.wikipedia.org/wiki/National_University_of_San_Marcos).
@@ -57,5 +51,3 @@ and future projects seeking to build upon this work.
 <img src="https://github.com/user-attachments/assets/04c60d32-a1b7-4608-959a-a3020c884690" height="400" />
 
 > The device installed within the bus, about to be tested in production for the first time
-
-</details>
